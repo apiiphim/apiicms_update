@@ -10,7 +10,10 @@
     "<strong>Nội dung cập nhật: v6</strong>",
     "1. Thêm nút tạo nhanh slug khi thêm phim thủ công",
     "2. Thêm trình phát JWPlayer",
-    "- Xem hướng dẫn trước khi update nếu muốn nâng cấp trình phát mới: https://raw.githubusercontent.com/apiiphim/apiicms_update/main/h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%C3%AAm%20jwplayer.txt"
+    "- Xem hướng dẫn trước khi update nếu muốn nâng cấp trình phát mới: https://raw.githubusercontent.com/apiiphim/apiicms_update/main/h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%C3%AAm%20jwplayer.txt",
+    "<strong>Nội dung cập nhật: v7</strong>",
+    "1. Backup code: application/admin/controller/Collect.php ",
+    "2. Sửa lỗi nhỏ"
     
   ],
   "telegram": "https://t.me/apiionlines",
