@@ -1,5 +1,5 @@
 {
-  "latestVersion": "7",
+  "latestVersion": "8",
   "packageName": "apiicms_update",
   "change_log": [
     "<strong>Ví USDT nhận donate của em TRC20 : TNAaEjUsWFaZLNhdooM3Aqs1kcUacFsZRE",
@@ -13,7 +13,10 @@
     "- Xem hướng dẫn trước khi update nếu muốn nâng cấp trình phát mới: https://raw.githubusercontent.com/apiiphim/apiicms_update/main/h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20th%C3%AAm%20jwplayer.txt",
     "<strong>Nội dung cập nhật: v7</strong>",
     "1. Backup code: application/admin/controller/Collect.php ",
-    "2. Sửa lỗi nhỏ"
+    "2. Sửa lỗi nhỏ",
+    "<strong>Nội dung cập nhật: v8</strong>",
+    "1. Backup code: application/admin/controller/Collect.php ",
+    "2. Hiển thị máy chủ mới theo APII.online"
     
   ],
   "telegram": "https://t.me/apiionlines",
