@@ -19,6 +19,8 @@
     "1. Backup code: application/admin/controller/Collect.php",
     "2. Hiển thị máy chủ mới theo APII.online",
     "<strong>Nội dung cập nhật: v9</strong>",
+    "Xóa máy chủ trung gian Apii",
+    "Nhớ nhập đúng thông tin website của bạn trong Cài đặt website -> Cài đặt chung-> Site URL",
     "Thêm get.php - xử lý gộp nguồn thông minh",
     "Thêm nguonc.php - xử lý map api nguonc",
     "Chỉnh sửa lại giao diện crawler phim",
