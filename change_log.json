@@ -16,14 +16,13 @@
     "2. Sửa lỗi nhỏ",
     "<strong>Nội dung cập nhật: v8</strong>",
     "Chú ý: Backup toàn bộ code trước khi cập nhật tránh bị mất code đã phát triển",
-    "1. Backup code: application/admin/controller/Collect.php ",
+    "1. Backup code: application/admin/controller/Collect.php",
     "2. Hiển thị máy chủ mới theo APII.online",
     "<strong>Nội dung cập nhật: v9</strong>",
     "Thêm get.php - xử lý gộp nguồn thông minh",
     "Thêm nguonc.php - xử lý map api nguonc",
     "Chỉnh sửa lại giao diện crawler phim",
     "Donate cho e nhé! lâu rồi không ai donate nè"
-    
   ],
   "telegram": "https://t.me/apiionlines",
   "githubRepo": "https://github.com/apiiphim/apiicms-dev "
